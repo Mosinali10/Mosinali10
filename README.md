@@ -25,4 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=mosinali10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->    
-<img width="1363" height="699" alt="image" src="https://github.com/user-attachments/assets/0170f1cc-33b4-4703-8775-2108ca24db5e" />
+<img src="https://media1.tenor.com/m/yJ-RBNdj11QAAAAC/tshd-the-summer-hikaru-died.gif" width="220">
