@@ -25,4 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=mosinali10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->    
-<img src="https://media1.tenor.com/m/yJ-RBNdj11QAAAAC/tshd-the-summer-hikaru-died.gif" width="220">
+<p align="right">
+  <img src="https://media1.tenor.com/m/yJ-RBNdj11QAAAAC/tshd-the-summer-hikaru-died.gif" width="220"/>
+</p>
