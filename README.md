@@ -52,3 +52,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mosinali10&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
+<p align="right">
+  <img src="https://media1.tenor.com/m/yJ-RBNdj11QAAAAC/tshd-the-summer-hikaru-died.gif" width="220"/>
+</p>
